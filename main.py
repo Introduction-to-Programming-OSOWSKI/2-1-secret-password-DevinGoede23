@@ -2,7 +2,7 @@ def password(p):
     if p=="Knights19":
         return ("ACCESS GRANTED")
     else:
-        return ("ACCESS DEINED")   
+        return ("ACCESS DENIED")   
 password("Knights17")
 
    
